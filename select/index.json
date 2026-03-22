@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "kurayamisaka yori ai wo komete",
+  "base_artist": "kurayamisaka",
+  "createdAt": "2026-03-22T12:44:08.932046Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "kurayamisaka yori ai wo komete",
+      "artist": "kurayamisaka",
+      "has_synced": false,
+      "path": "select/01_kurayamisaka_yori_ai_wo_komete_kurayamisaka.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Kyokutou Yori Ai Wo Komete",
+      "artist": "BUCK-TICK",
+      "has_synced": true,
+      "path": "select/02_Kyokutou_Yori_Ai_Wo_Komete_BUCK-TICK.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Kyokutou yori Ai wo Komete",
+      "artist": "BUCK‐TICK",
+      "has_synced": true,
+      "path": "select/03_Kyokutou_yori_Ai_wo_Komete_BUCK‐TICK.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Kyokutou Yori Ai Wo Komete",
+      "artist": "Buck-Tick",
+      "has_synced": true,
+      "path": "select/04_Kyokutou_Yori_Ai_Wo_Komete_Buck-Tick.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "魔法陣より愛を込めて (마법진에 사랑을 담아, Mahoujin Yori Ai Wo Komete)",
+      "artist": "A crow is white",
+      "has_synced": true,
+      "path": "select/05_魔法陣より愛を込めて_(마법진에_사랑을_담아,_Mahoujin_Yori_Ai_Wo_Komete)_A_crow_is_white.lrc"
+    }
+  ]
+}
